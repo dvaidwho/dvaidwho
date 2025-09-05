@@ -1,13 +1,13 @@
-## Hello, I'm David 🪴
+## Hello, I'm David 👋🪴
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dvaidwho&color=blue)
 
 <img src="https://marvelrivals.wiki.fextralife.com/file/Marvel-Rivals/groot_mvp_default_full.gif" width="500"/>
 certified groot main 🌳
 
-- 🌱 Welcome to my Github profile!
+- 🌱 Welcome to my GitHub profile!
   
-- 🖥️ View my portfolio webstie: Work in progress..
+- 🖥️ View my portfolio website: Work in progress..
   
 - ✉️ Contact me: KongNDavid@gmail.com
   
