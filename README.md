@@ -1,4 +1,4 @@
-## Hello, I'm David 👋🪴
+## Hello, I'm David 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dvaidwho&color=blue)
 
