@@ -20,7 +20,7 @@ certified groot main 🌳
 
 **`🎓 Computer Science Student @ UMass Lowell`**
 
-**`💻 Aspiring Software Engineer | Intrested in AI & Machine Learning`**
+**`💻 Aspiring Software Engineer | Interested in AI & Machine Learning`**
 
 **`🏐 🐐 Goated Volleyball Player`**
 
