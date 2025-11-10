@@ -9,7 +9,7 @@ certified groot main 🌳
   
 - 🖥️ View my portfolio website: Work in progress..
   
-- ✉️ Contact me: KongNDavid@gmail.com
+- ✉️ Contact with me: KongNDavid@gmail.com
   
 - <a href="https://linkedin.com/in/davidkong-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david kong" height="30" width="40" /></a>
 <a href="https://instagram.com/dvaidwho" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dvaidwho" height="30" width="40" /></a>
