@@ -2,14 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dvaidwho&color=blue)
 
-<img src="https://marvelrivals.wiki.fextralife.com/file/Marvel-Rivals/groot_mvp_default_full.gif" width="500"/>
-certified groot main 🌳
-
 - 🌱 Welcome to my GitHub profile!
   
 - 🖥️ View my portfolio website: Work in progress..
   
-- ✉️ Connect with me: KongNDavid@gmail.com
+- ✉️ Connect: KongNDavid@gmail.com
   
 - <a href="https://linkedin.com/in/davidkong-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david kong" height="30" width="40" /></a>
 <a href="https://instagram.com/dvaidwho" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dvaidwho" height="30" width="40" /></a>
