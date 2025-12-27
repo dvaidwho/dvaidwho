@@ -23,7 +23,7 @@
 
 ## Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,react,tailwind,html,css,js,github,linux,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,react,tailwind,html,css,js,github,git,linux,nodejs,mysql)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvaidwho&layout=compact&langs_count=6&theme=tokyonight&hide=css,html)
 
